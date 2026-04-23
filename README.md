@@ -43,7 +43,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶ Usage
+##  Usage
 
 ###  Full Pipeline Execution
 
