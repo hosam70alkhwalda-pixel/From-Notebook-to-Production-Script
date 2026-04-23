@@ -45,7 +45,7 @@ pip install -r requirements.txt
 
 ## ▶ Usage
 
-### 🔹 Full Pipeline Execution
+###  Full Pipeline Execution
 
 Runs complete training, evaluation, and reporting pipeline.
 
@@ -53,7 +53,7 @@ Runs complete training, evaluation, and reporting pipeline.
 python compare_models.py --data-path data/telecom_churn.csv
 ```
 
-### 🔹 Dry Run (Validation Mode)
+###  Dry Run (Validation Mode)
 
 Validates dataset and prints pipeline configuration without training models.
 
